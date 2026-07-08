@@ -1,3 +1,6 @@
+# auch config ignorieren wegen Datensicherheit
+*\config.json
+
 # ==========================================
 # Python (Virtuelle Umgebungen, Cache & Builds)
 # ==========================================
