@@ -1,5 +1,5 @@
 # auch config ignorieren wegen Datensicherheit
-*\config.json
+discord-bot/config.json
 
 # ==========================================
 # Python (Virtuelle Umgebungen, Cache & Builds)
