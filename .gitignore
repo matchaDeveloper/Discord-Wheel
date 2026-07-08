@@ -44,7 +44,7 @@ target/
 **/*.rs.bk
 
 # Ignoriert IDE-spezifische Metadaten und Nutzer-Konfigurationen
-.idea/
+*.idea/
 *.iml
 *.iws
 
